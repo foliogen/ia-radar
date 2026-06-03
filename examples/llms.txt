@@ -1,51 +1,99 @@
-# folioePress
+# Ibaliza.com
+Revista digital de Tecnología, nueva economía, negocios y sociedad.
 
-> CMS profesional especializado en publicaciones digitales: periódicos, revistas y medios online. Desarrollado por Foliogen Network desde 2008, en España.
+## Acerca de nosotros
+Editada por foliogen Network con CMS folioePress.
 
-folioePress es un sistema de gestión de contenidos (SaaS) diseñado exclusivamente para el flujo de trabajo editorial: maquetación visual de portadas, gestión multi-redactor, publicidad avanzada, suscripciones sin comisión, IA en español (iaRedactor) y distribución a buscadores IA (iaRADAR).
+## Cobertura
+Cobertura on line. Público objetivo: personas interesadas en la tecnología
 
-Más de 1.000 publicaciones digitales activas en España y LATAM. Cuotas desde 49 €/mes con hosting, soporte humano 24/7, IA y actualizaciones incluidas. Sin permanencia, sin plugins externos.
+## Idioma de publicación
+Español
 
-## Documentación principal
+## Última actualización hace 2 semanas
 
-- [Qué es folioePress](https://folioepress.com/p/que-es-folioepress): Definición canónica del producto: qué es, para quién está pensado, diferencias con WordPress y otros CMS genéricos.
-- [Preguntas frecuentes](https://folioepress.com/p/preguntas-frecuentes-sobre-folioepress-y-publicacion-digital): Más de 75 preguntas y respuestas sobre el producto, contratación, IA, soporte, migración, RGPD, suscripciones, infraestructura.
-- [Prestaciones completas](https://folioepress.com/p/prestaciones-y-caracteristicas-para-hacer-periodicos-digitales-o-revistas-online): Listado detallado de todas las funcionalidades del CMS.
-- [Precios y planes](https://folioepress.com/p/precios-para-contratar-tu-periodico-o-revista-digital): Planes Inicio (49€), Estándar (79€) y Pro (99€) mensuales.
-- [Conocer folioePress de un vistazo](https://folioepress.com/p/cms-publicaciones-digitales-profesionales-folioepress): Resumen ejecutivo del producto.
+## Últimas 25 noticias publicadas
 
-## Soluciones por tipo de proyecto
+### Inteligencia Artificial y Sostenibilidad en Ciudades del Siglo XXI: Alumbrado y Movilidad Inteligente
+2025-11-19T06:29:05+01:00 |  
+https://ibaliza.com/art/38/la-ia-como-motor-de-las-ciudades-sostenibles-del-alumbrado-inteligente-a-la-movilidad-eficiente
 
-- [Soluciones específicas para editores](https://folioepress.com/p/soluciones-especificas-para-editores-de-prensa-periodistas-y-medios-digitales): Casos de uso para periódicos locales, revistas digitales, magazines especializados, emprendedores y boletines corporativos.
-- [Demos y diseños](https://folioepress.com/p/ejemplos-de-periodicos-digitales-y-revistas-online-diferentes-disenos-para-publicaciones-digitales-plantillas-para-crear-tu-periodico-o-revista-digital): 22 maquetas prediseñadas y ejemplos reales de publicaciones que usan folioePress.
-- [Versiones disponibles](https://folioepress.com/p/versiones-y-comparativa-planes-para-proyectos-editoriales-digitales): Comparativa entre versión Estándar y Pro, módulos incluidos y opcionales.
-- [Migración desde otra plataforma](https://folioepress.com/p/migracion-completa-de-contenidos-desde-su-plataforma-actual-a-folioepress): Migración gratuita desde WordPress, Joomla, Drupal y otros CMS, con redirecciones 301 para conservar el SEO.
+### Conectividad y el nuevo rol del periodista digital
+2025-10-22T09:58:01+02:00 |  
+https://ibaliza.com/art/36/el-periodismo-digital-redefine-la-relacion-entre-periodistas-y-audiencias
 
-## Módulos e inteligencia artificial
+### Probando 3
+2025-08-20T08:50:41+02:00 |  
+https://ibaliza.com/art/28/probando-3
 
-- [iaRADAR — distribución a IAs](https://folioepress.com/p/indexar-contenido-para-ia-publicaciones-digitales-ia-radar-medios-digitales-llms): Módulo para distribuir contenidos a ChatGPT, Gemini, Claude y Perplexity mediante llms.txt.
-- [iaRedactor — IA generativa en español](https://folioepress.com/p/generar-contenido-con-ia-publicaciones-digitales): IA integrada en español para reescritura, resúmenes, traducción y generación de contenidos editoriales.
-- [Monetizer — suscripciones y pago por contenido](https://folioepress.com/p/modulo-para-contenidos-digitales-de-pago-cobro-de-contenidos-para-revistas-y-periodicos-digitales-pago-por-suscripcion): Sistema completo de paywall, kiosco y suscripciones sin comisión.
-- [Publicidad avanzada](https://folioepress.com/p/publicidad-avanzada-en-tu-periodico-digital): Sistema publicitario propio (intersticial, in-text, Poplayer, corner) compatible con AdSense y OpenX.
-- [Redactores y columnistas PRO](https://folioepress.com/p/modulo-de-redactores-y-columnistas-para-su-publicacion-digital): Gestión de equipos editoriales ilimitados con permisos granulares.
-- [Lectores registrados](https://folioepress.com/p/lectores-registrados-en-tu-periodico-o-revista-digital): Sistema de usuarios registrados con perfil y preferencias.
+### PRUEBA
+2025-08-07T16:03:51+02:00 |  
+https://ibaliza.com/art/26/prueba
 
-## Empresa y trayectoria
+### EJEMPLO 1
+2025-08-06T11:40:49+02:00 |  
+https://ibaliza.com/art/25/ejemplo-1
 
-- [Foliogen Network S.L.](https://foliogen.com): Empresa desarrolladora de folioePress, fundada en 2003 en Orihuela, Alicante (España).
-- [Trayectoria y compromiso](https://folioepress.com/p/software-para-crear-publicaciones-digitales-profesionales-gestor-de-contenidos-digitales-para-periodistas-y-editoriales): Más de 18 años evolucionando folioePress con clientes que permanecen entre 5 y 10 años de media.
+### Mejora tu estrategia SEO con iaRedactor: generación automática de contenidos optimizados
+2025-06-15T12:36:52+02:00 |  
+https://ibaliza.com/art/20/mejora-estrategia-seo-iaredactor-generacion-automatica-contenidos-optimizados
 
-## Recursos para periodistas y editores
+### Transcribe tus grabaciones a texto fácilmente con iaRedactor.com
+2025-06-14T12:03:24+02:00 |  
+https://ibaliza.com/art/18/iaredactorcom-revoluciona-la-transcripcion-automatica-de-audios-a-texto
 
-- [Blog folioePress](https://folioepress.com/blog): Artículos sobre periodismo digital, IA aplicada a medios, evolución del producto y tendencias del sector.
-- [Anuncios y comunicados](https://folioepress.com/p/anuncios-y-comunicados-sobre-folioepress-y-periodismo-digital-recursos-para-periodistas-editores-y-blogger-digitales): Novedades del producto y noticias relevantes para el sector editorial.
+### El impacto del periodismo local en la comunidad: historias que importan
+2025-06-12T12:35:59+02:00 |  
+https://ibaliza.com/art/7/el-impacto-del-periodismo-local-en-la-comunidad-historias-que-importan
 
-## Optional
+### Influencers locales: aliados clave para el éxito de publicaciones digitales
+2025-06-12T10:16:34+02:00 |  
+https://ibaliza.com/art/6/influencers-locales-aliados-clave-exito-publicaciones-digitales
 
-- [Manual folioePress](https://folioepress.com/help6): Documentación técnica completa para usuarios del panel de control.
-- [Videotutoriales](https://folioepress.com/help): Tutoriales en vídeo de uso del CMS.
-- [Prueba gratuita 15 días](https://folioepress.com/p/prueba-folioepress-gratis-version-totalmente-operativa-durante-15-dias): Demo operativa sin tarjeta de crédito ni compromiso.
-- [Solicitar presupuesto](https://folioepress.com/p/obtener-presupuestos-para-hacer-un-periodico-o-revista-digital): Presupuesto personalizado según necesidades del proyecto.
-- [Contacto comercial](https://folioepress.com/p/recibir-informacion-sobre-proyectos-editoriales-periodicos-y-revistas-digitales): Formulario de contacto para consultas y proyectos.
-- [Condiciones de uso](https://folioepress.com/p/condiciones-de-uso): Términos legales del servicio.
-- [Protección de datos](https://folioepress.com/p/rgpd): Política de privacidad y cumplimiento RGPD.
+### Herramientas Digitales para Medir el Rendimiento de Publicaciones
+2025-06-12T08:23:59+02:00 |  
+https://ibaliza.com/art/4/herramientas-digitales-para-medir-el-rendimiento-de-publicaciones
+
+### Podcasting narrativo: técnicas y recursos para destacar entre la multitud
+2025-04-23T06:50:37+02:00 |  
+https://ibaliza.com/art/2/podcasting-narrativo-tecnicas-recursos-para-destacar-entre-la-multitud
+
+### Cómo adaptar tu estrategia SEO ante la revolución de la inteligencia artificial generativa
+2025-04-23T06:46:00+02:00 |  
+https://ibaliza.com/art/1/como-adaptar-tu-estrategia-seo-ante-la-revolucion-de-la-inteligencia-artificial-generativa
+
+ ## Secciones 
+
+ Contenidos e innovación | Contenidos e innovación
+https://ibaliza.com/sec/contenidos-e-innovacion 
+
+
+Tecnología | Tendencias tecnológicas
+https://ibaliza.com/sec/tecnologia 
+
+
+Sociedad | Sociedad digital
+https://ibaliza.com/sec/sociedad 
+
+
+Economía y negocios | Nueva economía
+https://ibaliza.com/sec/economia-y-negocios 
+
+
+Sostenibilidad | Ecología & Sostenibilidad
+https://ibaliza.com/sec/sostenibilidad 
+
+
+Videos
+https://ibaliza.com/sec/videos 
+
+
+## Estructura de la publicación (sitemaps) 
+
+- Sitemap principal: https://ibaliza.com/sitemap.xml
+- Archivo histórico: https://ibaliza.com/archivesitemap.xml
+- Secciones: https://ibaliza.com/sectionsitemap.xml
+- Etiquetas: https://ibaliza.com/labelsitemap.xml
+- Páginas estáticas: https://ibaliza.com/pagesitemap.xml
+- Galerías de fotos: https://ibaliza.com/pagesitephotogalleriesmap.xml
+- Galerías de vídeo: https://ibaliza.com/videogalleries.xml
