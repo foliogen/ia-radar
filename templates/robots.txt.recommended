@@ -1,0 +1,110 @@
+# ============================================================
+# robots.txt recomendado para publicaciones digitales
+# Configuración equilibrada para bots IA en 2026
+# ============================================================
+#
+# Esta configuración permite que tu contenido sea CITABLE por
+# asistentes de IA en respuestas en tiempo real (ChatGPT, Claude,
+# Perplexity) mientras bloquea el ENTRENAMIENTO masivo de modelos
+# con tu contenido sin autorización.
+#
+# Adapta esta plantilla a tu política editorial.
+# ============================================================
+
+
+# ─── BOTS DE BÚSCAR / CITAR EN TIEMPO REAL (RECOMENDADO: PERMITIR) ───
+# Estos bots consultan tu sitio cuando un usuario hace una pregunta
+# en vivo. Si te citan, aparecerás en la respuesta con un enlace.
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+
+# ─── BOTS DE ENTRENAMIENTO DE MODELOS (DECIDE TÚ) ───
+# Estos bots descargan tu contenido para entrenar futuros modelos.
+# El contenido se usará durante años sin atribución directa a ti.
+#
+# Si quieres BLOQUEARLOS, descomenta las líneas Disallow:
+# Si quieres PERMITIRLOS, descomenta las líneas Allow:
+
+User-agent: GPTBot
+# Disallow: /
+Allow: /
+
+User-agent: Google-Extended
+# Disallow: /
+Allow: /
+
+User-agent: anthropic-ai
+# Disallow: /
+Allow: /
+
+User-agent: cohere-ai
+# Disallow: /
+Allow: /
+
+User-agent: Meta-ExternalAgent
+# Disallow: /
+Allow: /
+
+
+# ─── DATASETS PÚBLICOS DE ENTRENAMIENTO ───
+# Common Crawl y similares construyen datasets de entrenamiento masivos.
+# Recomendación: bloquear si tu contenido es propiedad intelectual de valor.
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+
+# ─── BOTS TRADICIONALES DE BÚSQUEDA (PERMITIDO POR DEFECTO) ───
+# Google, Bing, etc. — no son bots IA pero conviene declararlos
+# explícitamente para evitar conflictos con las reglas anteriores.
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+
+# ─── REGLA GENERAL PARA RESTO DE BOTS ───
+User-agent: *
+Allow: /
+
+
+# El llms.txt no es parte del estándar robots.txt, pero algunos
+# bots IA lo buscan automáticamente. Tenlo en la raíz:
+# https://tu-dominio.com/llms.txt
