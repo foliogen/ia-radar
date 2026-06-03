@@ -97,7 +97,7 @@ A diferencia de `sitemap.xml` (catálogo completo) o `robots.txt` (qué se puede
 
 ## ¿Cómo activar iaRADAR en mi publicación?
 
-iaRADAR está **incluido sin coste adicional** para todos los clientes de folioePress.
+iaRADAR Base está **incluido sin coste adicional** para todos los clientes de folioePress. iaRADAR PRO es un módulo de pago. Incluido sin coste en Planes superiores a partir de Dedicado PRO.
 
 1. Accede al panel de control de tu publicación.
 2. Ve a **Módulos → iaRADAR**.
