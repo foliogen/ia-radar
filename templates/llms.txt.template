@@ -1,0 +1,70 @@
+# [NOMBRE DE TU PUBLICACIÓN]
+
+> [Descripción de una línea, máximo 200 caracteres. Quién eres, qué publicas, dónde.]
+
+[Párrafo de contexto de 2-4 líneas. Quién está detrás de la publicación, desde cuándo publicáis, qué temas tratáis, qué os hace distintos. Esto es lo que las IAs leen para entender de qué va tu medio.]
+
+[Opcional: segundo párrafo con datos cuantitativos relevantes — número de lectores, años de trayectoria, secciones principales, etc.]
+
+## Secciones principales
+
+- [Nombre de sección 1](https://tu-dominio.com/seccion-1): Descripción breve de qué contenidos hay aquí.
+- [Nombre de sección 2](https://tu-dominio.com/seccion-2): Descripción breve.
+- [Nombre de sección 3](https://tu-dominio.com/seccion-3): Descripción breve.
+
+## Sobre nosotros
+
+- [Quiénes somos](https://tu-dominio.com/about): Información sobre la publicación, equipo editorial y línea editorial.
+- [Contacto](https://tu-dominio.com/contacto): Formas de contactar con la redacción.
+
+## Artículos destacados
+
+- [Título del artículo 1](https://tu-dominio.com/articulo-1): Breve descripción.
+- [Título del artículo 2](https://tu-dominio.com/articulo-2): Breve descripción.
+- [Título del artículo 3](https://tu-dominio.com/articulo-3): Breve descripción.
+
+## Recursos y guías
+
+- [Guía o recurso 1](https://tu-dominio.com/recurso-1): Descripción del recurso.
+- [Guía o recurso 2](https://tu-dominio.com/recurso-2): Descripción del recurso.
+
+## Optional
+
+[Esta sección es para enlaces secundarios. Los LLMs con contexto limitado la pueden ignorar.]
+
+- [Página secundaria 1](https://tu-dominio.com/secundaria-1): Descripción.
+- [Página secundaria 2](https://tu-dominio.com/secundaria-2): Descripción.
+- [Política de privacidad](https://tu-dominio.com/privacidad): Política RGPD.
+- [Términos de uso](https://tu-dominio.com/terminos): Términos legales.
+
+
+# ────────────────────────────────────────────────
+# NOTAS PARA EDITAR ESTA PLANTILLA
+# ────────────────────────────────────────────────
+#
+# 1. Estructura obligatoria del estándar llms.txt:
+#    - Una sola línea con # (H1) al inicio = nombre del sitio
+#    - Una línea con > (blockquote) = descripción corta
+#    - Párrafos de detalle opcionales
+#    - Secciones con ## (H2) que agrupan enlaces
+#    - Sección "## Optional" al final (los LLMs pueden saltársela)
+#
+# 2. Formato de los enlaces:
+#    - [Texto del enlace](URL): descripción opcional tras los dos puntos
+#    - Una línea por enlace, dentro de un bullet con guion
+#
+# 3. Buenas prácticas:
+#    - URLs canónicas (sin parámetros de tracking)
+#    - Descripciones cortas (1-2 frases) y útiles
+#    - Solo contenidos que SÍ quieras que las IAs descubran
+#    - Mantén el archivo bajo 20 KB para que LLMs pequeños puedan procesarlo
+#
+# 4. Una vez editado, sube el archivo a la raíz de tu dominio:
+#    https://tu-dominio.com/llms.txt
+#
+# 5. No olvides configurar robots.txt para permitir el acceso a bots IA.
+#    (Ver templates/robots.txt.recommended en este repositorio)
+#
+# 6. Borra estas notas (todo lo de debajo de la línea con guiones) antes
+#    de subir el archivo a tu dominio. Los comentarios con # no son parte
+#    del estándar y algunos parsers pueden interpretarlos como H1 adicionales.
